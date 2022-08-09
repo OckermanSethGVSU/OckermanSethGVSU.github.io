@@ -190,6 +190,16 @@
   padding: 0;
 }
 
+.u-section-4 .u-btn-4 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-5 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-4 .u-text-4 {
   font-size: 1.875rem;
   margin: 38px -2px 0 2px;
@@ -200,7 +210,7 @@
   margin: 64px 0 0;
 }
 
-.u-section-4 .u-btn-4 {
+.u-section-4 .u-btn-6 {
   background-image: none;
   font-size: 1.5rem;
   padding: 0;
@@ -208,7 +218,13 @@
 
 .u-section-4 .u-text-6 {
   font-size: 1.875rem;
-  margin: 38px 0 60px;
+  margin: 38px 0 20px;
+}
+
+.u-section-4 .u-btn-7 {
+  background-image: none;
+  font-size: 1.5rem;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
