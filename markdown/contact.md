@@ -3,6 +3,7 @@ layout: page
 title: Contact and Socials
 sidebar_link: true
 ---
+<base target="_blank">
 
 Email: ockermas (AT) mail.gvsu.edu
 
