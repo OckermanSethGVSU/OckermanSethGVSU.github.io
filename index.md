@@ -16,9 +16,8 @@ I plan to pursue a Ph.D. in Computer Science with an emphasis on designing syste
 * Machine Learning
 
 ## Publications
-*<font size="2">Note: When IEEE ICMLA uploads the 2022 papers, the below paper will accessible via the below link. As of 02/22/2023, they have not uploaded the 2022 papers.</font>*
 
-Ockerman, Seth and Erin Carrier (2022). [Predicting COVID-19 Case Counts Using Twitter Image Data](https://ieeexplore.ieee.org/xpl/conhome/1001544/all-proceedings). In: To appear in IEEE ICMLA 2022.
+Ockerman, Seth and Erin Carrier (2022). [Predicting COVID-19 Case Counts Using Twitter Image Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10068950). In: IEEE ICMLA 2022.
 
 
 Ockerman, Seth et al. (2022). [A Case for Dataset Specific Profiling](https://arxiv.org/abs/2208.03315). doi: 10.48550/ARXIV.2208.03315. url: https://arxiv.org/abs/2208.03315.
