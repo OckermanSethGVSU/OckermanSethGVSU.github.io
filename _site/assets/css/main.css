@@ -278,7 +278,7 @@ body { background-attachment: fixed; background-color: #202020; background-image
 
 #sidebar { flex: 0 0 auto; padding: 3rem; height: 100%; overflow-y: scroll; }
 
-#sidebar .site-title { font-family: 'Abril Fatface', serif; font-size: 1.25rem; font-weight: normal; margin-bottom: 0.5rem; margin-top: 0; }
+#sidebar .site-title { font-family: 'Abril Fatface', serif; font-size: 16px; font-weight: normal; margin-bottom: 0.5rem; margin-top: 0; }
 
 #sidebar .site-title .back-arrow { margin-right: 0.5rem; }
 
@@ -309,7 +309,7 @@ body { background-attachment: fixed; background-color: #202020; background-image
 .home #sidebar > *:last-child { margin-bottom: 0.5rem; }
 
 /* ----------------------------------------------------------- Tablet / Desktop view ----------------------------------------------------------- */
-@media (min-width: 49rem) { body { flex-direction: row; min-height: 100vh; -webkit-overflow-scrolling: touch; overflow-y: auto; } body > * { -webkit-overflow-scrolling: touch; overflow-y: auto; } /* Undo mobile CSS */ #sidebar, .home #sidebar { text-align: left; width: 20rem; } #sidebar > *:last-child, .home #sidebar > *:last-child { margin-bottom: 0; } #sidebar { position: fixed; top: 0; left: 0; } #sidebar .site-title { font-size: 3.25rem; } #sidebar .site-title .back-arrow { display: none; } #sidebar p.lead, #sidebar header ~ * { display: block; } #sidebar header ~ nav { display: flex; } .index #sidebar { margin-bottom: 0; } .container { background: #fff; color: #515151; min-height: 100vh; padding: 6rem 6rem 0; margin-left: 20rem; } .container > header { color: #313131; margin: 0; } .container > header h1, .container > header h2 { color: inherit; } .container > header h1:last-child, .container > header h2:last-child { margin-bottom: 0.5rem; } .container > * { max-width: 38rem; padding: 0; } }
+@media (min-width: 49rem) { body { flex-direction: row; min-height: 100vh; -webkit-overflow-scrolling: touch; overflow-y: auto; } body > * { -webkit-overflow-scrolling: touch; overflow-y: auto; } /* Undo mobile CSS */ #sidebar, .home #sidebar { text-align: left; width: 20rem; font-size: 38px; } #sidebar > *:last-child, .home #sidebar > *:last-child { margin-bottom: 0; } #sidebar { position: fixed; top: 0; left: 0; } #sidebar .site-title { font-size: 3.25rem; } #sidebar .site-title .back-arrow { display: none; } #sidebar p.lead, #sidebar header ~ * { display: block; } #sidebar header ~ nav { display: flex; } .index #sidebar { margin-bottom: 0; } .container { background: #fff; color: #515151; min-height: 100vh; padding: 6rem 6rem 0; margin-left: 20rem; } .container > header { color: #313131; margin: 0; } .container > header h1, .container > header h2 { color: inherit; } .container > header h1:last-child, .container > header h2:last-child { margin-bottom: 0.5rem; } .container > * { max-width: 38rem; padding: 0; } }
 
 /* ----------------------------------------------------------- Sidebar links + nav ----------------------------------------------------------- */
 #sidebar a { color: #fff; }
@@ -324,7 +324,7 @@ body { background-attachment: fixed; background-color: #202020; background-image
 
 #sidebar a.active { font-weight: bold; }
 
-#sidebar .site-title { color: #fff; }
+#sidebar .site-title { color: #fff; font-size: 38px; }
 
 #sidebar .site-title a { color: inherit; }
 
