@@ -19,10 +19,5 @@ Mentored by [Professor Erin Carrier](https://eecarrier.github.io/), I created a 
 Mentored by [Professor Christopher Stewart](https://cse.osu.edu/people/stewart.962), I worked to examine the current neural network benchmarking practices in digital agriculture. I empirically demonstrated the dangers of using classical datasets for digital agriculture neural network benchmarking. Additionally, I designed a GBM which could predict final neural network test set performance  with 87% accuracy using only 3% of the training time required for convergence. I led a team of three in the writing of an [arXiv paper](https://arxiv.org/abs/2208.03315), and later I built my work out into a [full paper](https://openreview.net/forum?id=vBSUoUuAYOA) which was accepted for publication at AAAI 2023. 
 
 ## Improving the Accessibility of Video Games
-My freshmen year, I worked as a research assistant for Professor Ira Woodring. I helped perform literature review, summarized and aggregated useful sources, and contributed towards a GameBoy Emulator in C. 
+My freshmen year, I worked as a research assistant for [Professor Ira Woodring](https://www.linkedin.com/in/ira-woodring-3720a47a). I helped perform literature review, summarized and aggregated useful sources, and contributed towards a GameBoy Emulator in C. 
 
-
-### Quick Thank You
- 
-* [Erin Carrier](https://eecarrier.github.io/)
-* [Christopher Stewart](https://cse.osu.edu/people/stewart.962)
