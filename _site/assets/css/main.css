@@ -300,7 +300,7 @@ body { background-attachment: fixed; background-color: #202020; background-image
 /* ----------------------------------------------------------- Mobile view for home page) ----------------------------------------------------------- */
 .home #sidebar { text-align: center; }
 
-.home #sidebar .site-title { font-size: 3.25rem; }
+.home #sidebar .site-title { font-size: 38px; }
 
 .home #sidebar header ~ *, .home #sidebar p.lead { display: block; }
 
