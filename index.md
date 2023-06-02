@@ -12,7 +12,6 @@ Previously, I completed my undergraduate degree at [Grand Valley State Universit
 
 ## Research Interests
 * Systems
-* Networking
 * HPC
 * Machine Learning
 
