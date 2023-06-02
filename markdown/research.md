@@ -3,7 +3,7 @@ layout: page
 title: Research
 sidebar_link: true
 ---
-My research typically involves applications of ML, HPC, and Systems. 
+My research typically involves applications of ML, HPC, and Systems. I've enjoyed being able to work on a variety of different projects in diverse domains.
 
 ## Improving the Scalability of Large Scale Image Processing through HPC
 Mentored by Professor Brian Haab, I built a large scale image processing toolkit for biological sliding window analysis. By combining the integral image method with GPU programming, I achieved a speedup of 131,806x on small-scale images and a speedup of TODO on large-scale microscopy images compared to the previously used method. Our toolkit is publicly available through the [Bio_PII](https://github.com/OckermanSethGVSU/Bio-PII) PIP package. Our work is currently in submission for IEEE CIBCB 2023.
@@ -20,3 +20,9 @@ Mentored by Professor Christopher Stewart, I worked to examine the current neura
 
 ## Improving the Accessibility of Video Games
 My freshmen year, I worked as a research assistant for Professor Ira Woodring. I helped perform literature review, summarized and aggregated useful sources, and contributed towards a GameBoy Emulator in C. 
+
+
+### Quick Thank You
+ 
+* [Erin Carrier](https://eecarrier.github.io/)
+* [Christopher Stewart](https://cse.osu.edu/people/stewart.962)
