@@ -16,6 +16,7 @@ Previously, I completed my undergraduate degree at [Grand Valley State Universit
 * HPC
 * Machine Learning
 
+
 ## Publications
 Ockerman, Seth and Erin Carrier (2022). [Predicting COVID-19 Case Counts Using Twitter Image Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10068950). In: IEEE ICMLA 2022.
 
