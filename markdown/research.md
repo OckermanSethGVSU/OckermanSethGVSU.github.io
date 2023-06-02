@@ -12,7 +12,7 @@ Overseen by [Professor Brian Haab](https://scholar.google.com/citations?user=mC3
 
  
 ## Predicting COVID-19 Cases Using Twitter Image Data
-Mentored by [Professor Erin Carrier](https://eecarrier.github.io/){:target="_blank"}, I created a project that helped to improve our COVID response through more accurate COVID-19 case count prediction. My work was published in [IEEE ICMLA 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10068950){:target="_blank"} where I recently presented it.
+Mentored by [Professor Erin Carrier](https://eecarrier.github.io/){:target="_blank"}, I created a project that helped to improve our COVID response through more accurate COVID-19 case count prediction. My work was published in [IEEE ICMLA 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10068950){:target="_blank"}.
 
 
 ## Improving AI Model Selection in the Domain of Digital Agriculture
