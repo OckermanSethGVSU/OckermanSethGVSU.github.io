@@ -6,7 +6,7 @@ sidebar_link: true
 My research typically involves applications of ML, HPC, and Systems. I've enjoyed being able to work on a variety of different projects in diverse domains.
 
 ## Improving the Scalability of Large Scale Image Processing through HPC
-Overseen by [Professor Brian Haab](https://scholar.google.com/citations?user=mC3JPI8AAAAJ&hl=en), I built a large scale image processing toolkit for biological sliding window analysis. By combining the integral image method with GPU programming, I achieved a speedup of 131,806x on small-scale images and a speedup of TODO on large-scale microscopy images compared to the previously used method. Our toolkit is publicly available through the [Bio_PII](https://github.com/OckermanSethGVSU/Bio-PII){:target="_blank"} PIP package. Our work is currently in submission for IEEE CIBCB 2023.
+Overseen by [Professor Brian Haab](https://scholar.google.com/citations?user=mC3JPI8AAAAJ&hl=en){:target="_blank"}, I built a large scale image processing toolkit for biological sliding window analysis. By combining the integral image method with GPU programming, I achieved a speedup of 131,806x on small-scale images and a speedup of TODO on large-scale microscopy images compared to the previously used method. Our toolkit is publicly available through the [Bio_PII](https://github.com/OckermanSethGVSU/Bio-PII){:target="_blank"} PIP package. Our work is currently in submission for IEEE CIBCB 2023.
 
 *Note that depending on when you are clicking the link, I may have not made our Git repo public yet*
 
