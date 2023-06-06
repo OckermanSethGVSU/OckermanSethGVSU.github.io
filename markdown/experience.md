@@ -6,7 +6,7 @@ sidebar_link: true
 
 
 #### ML-HPC Research Intern | [Berkeley Lab](https://www.lbl.gov/){:target="_blank"} | June 2023 - Present
-Performing research in the [Performance and Algorithms division](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/){:target="_blank"} seeking to develop and improve super computer parameter searches through the parallelization and finetuning of Bayesian Optimization in the [GPTune package](https://github.com/gptune/GPTune)
+Performing research in the [Performance and Algorithms division](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/){:target="_blank"} seeking to develop and improve super computer parameter searches through the parallelization and finetuning of Bayesian Optimization. I am working to extend previous work on the [GPTune package](https://github.com/gptune/GPTune)
 
 
 #### Consultant | Self Employed | May 2023 - Present
