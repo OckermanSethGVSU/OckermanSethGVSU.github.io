@@ -10,7 +10,7 @@ Performing research in the [Performance and Algorithms division](https://crd.lbl
 
 
 #### Consultant | Self Employed | May 2023 - Present
-Provide guidance and hands-on assistance to [Van Andel Medical Institute](https://www.vai.org/){:target="_blank"} on HPC research projects
+Providing guidance and hands-on assistance to [Van Andel Medical Institute](https://www.vai.org/){:target="_blank"} on HPC research projects
 
 #### CIS Student Ambassador | [Grand Valley State University](https://www.gvsu.edu/){:target="_blank"}  | Jan 2023 - May 2023
 Designed and supervised new Python Wave program which seeks to provide academic support and community to students in CIS 160, CIS 161, CIS 162, and CIS 163 through a supervised study group  
