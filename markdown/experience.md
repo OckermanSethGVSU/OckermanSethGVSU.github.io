@@ -4,12 +4,14 @@ title: Experience
 sidebar_link: true
 ---
 
+<!-- #### Research Collaborator | [University of California Berkeley](https://www.berkeley.edu/) | Aug. 2023 - Present 
+Designed Multi-Model and Multi-Seed Parallel Multi-Task BO for [GPTune](https://github.com/gptune/GPTune){:target="_blank"} codebase. Currently exploring its performance and other parallel multi-task BO implementations.  -->
 
-#### ML-HPC Research Intern | [Berkeley Lab](https://www.lbl.gov/){:target="_blank"} | June 2023 - Aug 2023
+#### ML-HPC Research Intern | [Lawrence Berkeley Lab](https://www.lbl.gov/){:target="_blank"} | June 2023 - Aug 2023
 Performing research in the [Performance and Algorithms division](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/){:target="_blank"} seeking to develop and improve super computer parameter searches through the parallelization and finetuning of Bayesian Optimization. I am working to extend previous work on the [GPTune package](https://github.com/gptune/GPTune){:target="_blank"}
 
 
-#### HPC Consultant | Van Andel | May 2023 - July 2023
+#### HPC Consultant | [Van Andel](https://www.vai.org/){:target="_blank"}  | May 2023 - July 2023
 Provided guidance and hands-on assistance  to [Van Andel Medical Institute](https://www.vai.org/){:target="_blank"} on a HPC research project which accelerated biological image analysis by up to 10,000x on large scale images. The project I led was recently published in IEEE CIBCB 2023.
 
 #### CIS Student Ambassador | [Grand Valley State University](https://www.gvsu.edu/){:target="_blank"}  | Jan 2023 - May 2023
