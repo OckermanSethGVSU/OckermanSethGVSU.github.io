@@ -9,8 +9,8 @@ sidebar_link: true
 Performing research in the [Performance and Algorithms division](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/){:target="_blank"} seeking to develop and improve super computer parameter searches through the parallelization and finetuning of Bayesian Optimization. I am working to extend previous work on the [GPTune package](https://github.com/gptune/GPTune){:target="_blank"}
 
 
-#### Consultant | Self Employed | May 2023 - Present
-Providing guidance and hands-on assistance to [Van Andel Medical Institute](https://www.vai.org/){:target="_blank"} on HPC research projects
+#### HPC Consultant | Van Andel | May 2023 - July 2023
+Provided guidance and hands-on assistance  to [Van Andel Medical Institute](https://www.vai.org/){:target="_blank"} on a HPC research project which accelerated biological image analysis by up to 10,000x on large scale images. The project I led was recently published in IEEE CIBCB 2023.
 
 #### CIS Student Ambassador | [Grand Valley State University](https://www.gvsu.edu/){:target="_blank"}  | Jan 2023 - May 2023
 Designed and supervised new Python Wave program which seeks to provide academic support and community to students in CIS 160, CIS 161, CIS 162, and CIS 163 through a supervised study group  
