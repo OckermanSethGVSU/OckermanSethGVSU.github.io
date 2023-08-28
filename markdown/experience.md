@@ -4,8 +4,11 @@ title: Experience
 sidebar_link: true
 ---
 
-<!-- #### Research Collaborator | [University of California Berkeley](https://www.berkeley.edu/) | Aug. 2023 - Present 
-Designed Multi-Model and Multi-Seed Parallel Multi-Task BO for [GPTune](https://github.com/gptune/GPTune){:target="_blank"} codebase. Currently exploring its performance and other parallel multi-task BO implementations.  -->
+#### Graduate Researcher | [University of Wisconsin Madison](https://www.cs.wisc.edu/){:target="_blank"} | Aug. 2023 - Present
+Designing and testing different methods for online fine tuning of ML models in a low energy environment
+
+#### Research Collaborator | [University of California Berkeley](https://www.berkeley.edu/){:target="_blank"} | Aug. 2023 - Present 
+Designed Multi-Model and Multi-Seed Parallel Multi-Task BO for [GPTune](https://github.com/gptune/GPTune){:target="_blank"} codebase. Currently, I am exploring its performance and other parallel multi-task BO implementations. 
 
 #### ML-HPC Research Intern | [Lawrence Berkeley Lab](https://www.lbl.gov/){:target="_blank"} | June 2023 - Aug 2023
 Performing research in the [Performance and Algorithms division](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/){:target="_blank"} seeking to develop and improve super computer parameter searches through the parallelization and finetuning of Bayesian Optimization. I am working to extend previous work on the [GPTune package](https://github.com/gptune/GPTune){:target="_blank"}

@@ -219,22 +219,44 @@
 
 <p><a href="https://scholar.google.com/citations?user=7gZFL2IAAAAJ&amp;hl=en" target="_blank">My Google Scholar</a></p>
 
-<!-- ## Multi-Model and Multi-Seed Parallel Multi-Task BO
-I implemented Multi-Model and Multi-Seed Parallel Multi-Task BO into the UC-Berkeley [GPTune](https://github.com/gptune/GPTune){:target="_blank"} codebase. Early results show improved-time-to-solution and final parameter selection. I am currently exploring other parallel multi-task BO implementations for GPTune. -->
+<h3 id="online-finetuning-of-ml-models-in-energy-constrained-environments">Online Finetuning of ML models in Energy Constrained Environments</h3>
+<h4 id="university-of-wisconsin-madison---aug-2023---present">University of Wisconsin Madison - Aug. 2023 - Present</h4>
+<p>I am exploring different methods of training and finetuning ML models for predicting battery state-of-charge in energy constrained environments. Additionally, I am investigating each method’s impact on overall energy usage.</p>
 
-<h2 id="harnessing-supercomputers-for-bayesian-optimization-tuning-searches-in-hpc">Harnessing Supercomputers for Bayesian Optimization Tuning Searches in HPC</h2>
-<p>Bayesian optimization (BO) is an inherently sequential workflow that cannot fully utilize modern supercomputers’ parallel architecture. Overseen by <a href="https://www.linkedin.com/in/aperezdieguez/?originalSubdomain=es" target="_blank">Professor Adrián Pérez Diéguez</a>, I designed two implementations on top of open-soure <a href="https://github.com/gptune/GPTune" target="_blank">GPTune</a> of the speculation strategy (aka constant liar strategy) which enable parallel function evaluation during BO. My parallel BO implementations reduced search time for <a href="https://netlib.org/scalapack/explore-html/da/d85/pdgeqrf_8f.html" target="_blank">ScaLAPACK PDGEQRF</a> by 73% and <a href="https://github.com/xiaoyeli/superlu_dist" target="_blank">SuperLU_Dist</a> by 84% compared to sequential BO. Further testing also demonstrated reduced search time relative to the state-the-art HPC tuner (DeepHyper) which also employs parallelism - 77% with <a href="https://github.com/xiaoyeli/superlu_dist" target="_blank">SuperLU_Dist</a> and 12% with <a href="https://netlib.org/scalapack/explore-html/da/d85/pdgeqrf_8f.html" target="_blank">ScaLAPACK PDGEQRF</a>. Additionally, I implemented a novel parallel multitask learning algorithm which improves both time-to-optimal-solution and final solution quality. Our work is currently in submission for <a href="https://www.dcs.warwick.ac.uk/pmbs/pmbs/PMBS/Welcome.html" target="_blank">IEEE PMBS 2023</a>.</p>
+<hr />
 
-<h2 id="improving-the-scalability-of-large-scale-image-processing-through-hpc">Improving the Scalability of Large Scale Image Processing through HPC</h2>
+<h3 id="multi-model-and-multi-seed-parallel-multi-task-bo">Multi-Model and Multi-Seed Parallel Multi-Task BO</h3>
+<h4 id="university-of-california-berkeley--aug-2023---present">University of California Berkeley | Aug. 2023 - Present</h4>
+<p>I implemented Multi-Model and Multi-Seed Parallel Multi-Task BO into the UC-Berkeley <a href="https://github.com/gptune/GPTune" target="_blank">GPTune</a> codebase. Early results show improved-time-to-solution and final parameter selection. I am currently exploring other parallel multi-task BO implementations for GPTune.</p>
+
+<hr />
+
+<h3 id="harnessing-parallelization-for-bayesian-optimization-hpc-tuning-searches">Harnessing Parallelization for Bayesian Optimization HPC Tuning Searches</h3>
+<h4 id="lawrence-berkeley-lab--june-2023---present">Lawrence Berkeley Lab | June 2023 - Present</h4>
+<p>Bayesian optimization (BO) is an inherently sequential workflow that cannot fully utilize modern supercomputers’ parallel architecture. Overseen by <a href="https://www.linkedin.com/in/aperezdieguez/?originalSubdomain=es" target="_blank">Professor Adrián Pérez Diéguez</a>, I designed two <a href="https://github.com/gptune/GPTune" target="_blank">GPTune-RCI</a> implementations which enable parallel function evaluation during BO. My parallel BO implementations reduced search time by up to 84% for prominent HPC applications. Further testing also demonstrated up to 77% reduced search time relative to the state-the-art HPC tuner (DeepHyper) which also employs parallelism. Additionally, I implemented a novel parallel multitask learning algorithm which improves both time-to-optimal-solution and final solution quality. I am currently exploring other BO strategies and documentations our results for a paper.</p>
+
+<hr />
+
+<h3 id="improving-the-scalability-of-large-scale-image-processing-through-hpc">Improving the Scalability of Large Scale Image Processing through HPC</h3>
+<h4 id="van-andel-institute--may-2023---july-2023">Van Andel Institute | May 2023 - July 2023</h4>
 <p>Overseen by <a href="https://scholar.google.com/citations?user=mC3JPI8AAAAJ&amp;hl=en" target="_blank">Professor Brian Haab</a>, I built a large scale image processing toolkit for biological sliding window analysis. By combining the integral image method with GPU programming, I achieved a speedup of 131,806x on small-scale images and a speedup of 10,901x on large-scale microscopy images compared to the previously used method. Our toolkit is publicly available through the <a href="https://github.com/OckermanSethGVSU/Bio-PII" target="_blank">BioPII</a> PIP package. Our work was recently accepted as a short paper in IEEE CIBCB 2023.</p>
 
-<h2 id="predicting-covid-19-cases-using-twitter-image-data">Predicting COVID-19 Cases Using Twitter Image Data</h2>
+<hr />
+
+<h3 id="predicting-covid-19-cases-using-twitter-image-data">Predicting COVID-19 Cases Using Twitter Image Data</h3>
+<h4 id="grand-valley-state-university--july-2020---sep-2022">Grand Valley State University | July 2020 - Sep. 2022</h4>
 <p>Mentored by <a href="https://eecarrier.github.io/" target="_blank">Professor Erin Carrier</a>, I created a project that helped to improve our COVID response through more accurate COVID-19 case count prediction. My work was published in <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10068950" target="_blank">IEEE ICMLA 2022</a>.</p>
 
-<h2 id="improving-ai-model-selection-in-the-domain-of-digital-agriculture">Improving AI Model Selection in the Domain of Digital Agriculture</h2>
+<hr />
+
+<h3 id="improving-ai-model-selection-in-the-domain-of-digital-agriculture">Improving AI Model Selection in the Domain of Digital Agriculture</h3>
+<h4 id="the-ohio-state-university--may-2022---december-2022">The Ohio State University | May 2022 - December 2022</h4>
 <p>Mentored by <a href="https://cse.osu.edu/people/stewart.962" target="_blank">Professor Christopher Stewart</a>, I worked to examine the current neural network benchmarking practices in digital agriculture. I empirically demonstrated the dangers of using classical datasets for digital agriculture neural network benchmarking. Additionally, I designed a GBM which could predict final neural network test set performance  with 87% accuracy using only 3% of the training time required for convergence. I led a team of three in the writing of an <a href="https://arxiv.org/abs/2208.03315" target="_blank">arXiv paper</a>, and later I built my work into a full paper which was accepted for publication at <a href="https://openreview.net/forum?id=vBSUoUuAYOA" target="_blank">AAAI 2023</a>.</p>
 
-<h2 id="improving-the-accessibility-of-video-games">Improving the Accessibility of Video Games</h2>
+<hr />
+
+<h3 id="improving-the-accessibility-of-video-games">Improving the Accessibility of Video Games</h3>
+<h4 id="grand-valley-state-university--sep-2019---june-2020">Grand Valley State University | Sep. 2019 - June 2020</h4>
 <p>My freshmen year, I worked as a research assistant for <a href="https://www.linkedin.com/in/ira-woodring-3720a47a" target="_blank">Professor Ira Woodring</a>. I helped perform literature review, summarized and aggregated useful sources, and contributed towards a GameBoy Emulator in C.</p>
 
 
