@@ -29,7 +29,7 @@ Bayesian optimization (BO) is an inherently sequential workflow that cannot full
 
 ### Improving the Scalability of Large Scale Image Processing through HPC 
 #### Van Andel Institute | May 2023 - July 2023
-Overseen by [Professor Brian Haab](https://scholar.google.com/citations?user=mC3JPI8AAAAJ&hl=en){:target="_blank"}, I built a large scale image processing toolkit for biological sliding window analysis. By combining the integral image method with GPU programming, I achieved a speedup of 131,806x on small-scale images and a speedup of 10,901x on large-scale microscopy images compared to the previously used method. Our toolkit is publicly available through the [BioPII](https://github.com/OckermanSethGVSU/Bio-PII){:target="_blank"} PIP package. Our work was recently accepted as a short paper in IEEE CIBCB 2023.
+Overseen by [Professor Brian Haab](https://scholar.google.com/citations?user=mC3JPI8AAAAJ&hl=en){:target="_blank"}, I built a large scale image processing toolkit for biological sliding window analysis. By combining the integral image method with GPU programming, I achieved a speedup of 131,806x on small-scale images and a speedup of 10,901x on large-scale microscopy images compared to the previously used method. Our toolkit is publicly available through the [BioPII](https://github.com/OckermanSethGVSU/Bio-PII){:target="_blank"} PIP package. Our work was recently accepted as a short paper in [IEEE CIBCB 2023](https://cmte.ieee.org/cis-bbtc/wp-content/uploads/sites/172/IEEE_CIBCB_2023_paper_2015.pdf){:target="_blank"}.
 
 --- 
 
