@@ -1,11 +1,11 @@
-current directory: /home/ockermans/Documents/OckermanSethGVSU.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230601-16458-8v6pmr.rb extconf.rb
+current directory: /home/seth/Documents/OckermanSethGVSU.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240214-270804-2yk0ya.rb extconf.rb
 creating Makefile
 
-current directory: /home/ockermans/Documents/OckermanSethGVSU.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+current directory: /home/seth/Documents/OckermanSethGVSU.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= clean
 
-current directory: /home/ockermans/Documents/OckermanSethGVSU.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+current directory: /home/seth/Documents/OckermanSethGVSU.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\=
 compiling ./libsass/src/memory/allocator.cpp
 compiling ./libsass/src/ast.cpp
@@ -75,6 +75,6 @@ compiling ./libsass/src/util_string.cpp
 compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.so
 
-current directory: /home/ockermans/Documents/OckermanSethGVSU.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+current directory: /home/seth/Documents/OckermanSethGVSU.github.io/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20230601-16458-nhxemc/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20240214-270804-56yd30/sassc

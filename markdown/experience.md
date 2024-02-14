@@ -4,14 +4,18 @@ title: Experience
 sidebar_link: true
 ---
 
-#### Graduate Researcher | [University of Wisconsin Madison](https://www.cs.wisc.edu/){:target="_blank"} | Aug. 2023 - Present
-Designing and testing different methods for online fine tuning of ML models in a low energy environment
+#### Graduate Student Researcher | [University of Wisconsin Madison](https://www.cs.wisc.edu/){:target="_blank"} | Aug. 2023 - Present
+Working under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"} doing ML-Systems Research. For more details, see my <a href="research.html">  research page</a>. 
 
-#### Research Collaborator | [University of California Berkeley](https://www.berkeley.edu/){:target="_blank"} | Aug. 2023 - Present 
-Designed Multi-Model and Multi-Seed Parallel Multi-Task BO for [GPTune](https://github.com/gptune/GPTune){:target="_blank"} codebase. Currently, I am exploring its performance and other parallel multi-task BO implementations. 
 
-#### ML-HPC Research Intern | [Lawrence Berkeley Lab](https://www.lbl.gov/){:target="_blank"} | June 2023 - Aug 2023
-Performing research in the [Performance and Algorithms division](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/){:target="_blank"} seeking to develop and improve super computer parameter searches through the parallelization and finetuning of Bayesian Optimization. I am working to extend previous work on the [GPTune package](https://github.com/gptune/GPTune){:target="_blank"}
+#### Teaching Assistant | [University of Wisconsin Madison](https://www.cs.wisc.edu/){:target="_blank"} | Aug. 2023 - Present
+Assisting in teaching [Intro to Big Data Systems](https://ms.sites.cs.wisc.edu/cs544/s24/syllabus.html){:target="_blank"}
+
+#### Research Collaborator | [University of California Berkeley](https://www.berkeley.edu/){:target="_blank"} | Aug. 2023 - Sep. 2023
+Designed Multi-Model and Multi-Seed Parallel Multi-Task BO for [GPTune](https://github.com/gptune/GPTune){:target="_blank"} codebase. Results show improved-time-to-solution and final parameter selection.
+
+#### ML-HPC Research Intern  | [Lawrence Berkeley Lab](https://www.lbl.gov/){:target="_blank"} | June 2023 - Aug 2023
+Performed research in the [Performance and Algorithms division](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/){:target="_blank"} seeking to develop and improve super computer parameter searches through the parallelization and finetuning of Bayesian Optimization. I extended previous work on the [GPTune package](https://github.com/gptune/GPTune){:target="_blank"}.
 
 
 #### HPC Consultant | [Van Andel](https://www.vai.org/){:target="_blank"}  | May 2023 - July 2023
