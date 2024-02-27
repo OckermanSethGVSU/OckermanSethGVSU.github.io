@@ -9,7 +9,7 @@ My research typically involves applications of ML, HPC, and Systems. I've enjoye
 
 
 ### Optimizing Computation vs Communication in Distributed Deep Learning Training
-#### University of Wisconsin Madison - Fed. 2023 - Present
+#### University of Wisconsin Madison - Feb. 2023 - Present
 Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I am exploring the trade-offs between computation and communication in Distributed Deep Learning Training. 
 
 
