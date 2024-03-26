@@ -9,13 +9,13 @@ My research typically involves applications of ML, HPC, and Systems. I've enjoye
 
 
 ### Optimizing Computation vs Communication in Distributed Deep Learning Training
-#### University of Wisconsin Madison - Fed. 2023 - Present
+#### University of Wisconsin Madison | Feb. 2023 - Present
 Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I am exploring the trade-offs between computation and communication in Distributed Deep Learning Training. 
 
 
 
 ### Exploring Machine Learning for State-of-Charge and State-of-Health Prediction in a Real World Fast-Charging Scenario
-#### University of Wisconsin Madison - Aug. 2023 - Present
+#### University of Wisconsin Madison | Aug. 2023 - Present
 Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I am performing research which addresses the need for accurate battery state-of-charge (SoC) and state-of-health (SoH) predictions in energy storage systems. We explore SoC prediction in batteries with diverse fast charging policies, resembling real-world scenarios. Key findings include the identification of crucial training features, successful adaptation to unforeseen charging policies using continuous learning, and efficient transition from SoC to SoH prediction without additional development.
 
 
@@ -23,7 +23,9 @@ Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}
 
 ### Harnessing Parallelization for Bayesian Optimization HPC Tuning Searches 
 #### Lawrence Berkeley Lab | June 2023 - Feb. 2024
-Bayesian optimization (BO) is an inherently sequential workflow that cannot fully utilize modern supercomputers' parallel architecture. Overseen by [Professor Adrián Pérez Diéguez](https://www.linkedin.com/in/aperezdieguez/?originalSubdomain=es){:target="_blank"}, I designed two [GPTune-RCI](https://github.com/gptune/GPTune){:target="_blank"} implementations which enable parallel function evaluation during BO. My parallel BO implementations reduced search time by up to 84% for prominent HPC applications. Further testing also demonstrated up to 77% reduced search time relative to the state-the-art HPC tuner (DeepHyper) which also employs parallelism. Additionally, I implemented a novel parallel multitask learning algorithm which improves both time-to-optimal-solution and final solution quality. Our work is in submission for [HPDC 2024](https://www.hpdc.org/2024/){:target="_blank"}
+Bayesian optimization (BO) is an inherently sequential workflow that cannot fully utilize modern supercomputers' parallel architecture. Overseen by [Professor Adrián Pérez Diéguez](https://www.linkedin.com/in/aperezdieguez/?originalSubdomain=es){:target="_blank"}, I designed two [GPTune-RCI](https://github.com/gptune/GPTune){:target="_blank"} implementations which enable parallel function evaluation during BO. My parallel BO implementations reduced search time by up to 84% for prominent HPC applications. Further testing also demonstrated up to 77% reduced search time relative to the state-the-art HPC tuner (DeepHyper) which also employs parallelism. Additionally, I implemented a novel parallel multitask learning algorithm which improves both time-to-optimal-solution and final solution quality. 
+
+<!-- Our work is in submission for [HPDC 2024](https://www.hpdc.org/2024/){:target="_blank"} -->
 
 ---
 
