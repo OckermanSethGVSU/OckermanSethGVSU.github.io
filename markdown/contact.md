@@ -11,4 +11,3 @@ Email: ockermas (AT) mail.gvsu.edu
 
 [LinkedIn](https://www.linkedin.com/in/sethockerman){:target="_blank"}
 
-*I don't update my LinkedIn as often as I should - information on my webpage is more likely to be up-to-date*
