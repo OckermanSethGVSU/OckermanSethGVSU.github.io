@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact and Socials
-sidebar_link: true
+sidebar_link: false
 ---
 
 

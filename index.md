@@ -34,3 +34,6 @@ Previously, I completed my undergraduate degree at [Grand Valley State Universit
 </div>
 
 
+## Contact
+
+Email: sockerman (AT) cs.wisc.edu
