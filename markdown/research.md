@@ -8,24 +8,34 @@ My research typically involves applications of ML, HPC, and Systems. I've enjoye
 [My Google Scholar](https://scholar.google.com/citations?user=7gZFL2IAAAAJ&hl=en){:target="_blank"}
 
 
+### Exploring Reproducibility and Efficiency in ML and HPC
+#### Argonne Lab & University of Wisconsin Madison | May 2024 - Present
+Through a collaboration between Argonne National Labrartory and University of Wisconsin Madison, I am working under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, [Amal Gueroudji](https://www.anl.gov/profile/amal-gueroudji){:target="_blank"}, and [Rob Ross](https://www.anl.gov/profile/robert-b-ross){:target="_blank"}. We are exploring reproducibility and efficiency in HPC and Deep Learning. This has taken the form of designing a new memory efficent approach for training spatiotemporal GNNs on large datasets, studying large-scale LLM preprocessing workflows to implement layered-profiling, and reducing data collection overhead by optimizing Mofka. This work is ongoing. 
+
+
+
+
+### FastPII: Enabling Multi-GPU, Memory-Efficient SWA
+#### Freelance | May 2024 - Sep. 2024
+In collaboration with [Professor Erin Carrier](https://eecarrier.github.io/){:target="_blank"}, I expanded my past work with [BioPII](https://github.com/OckermanSethGVSU/Bio-PII){:target="_blank"} into [FastPII](https://github.com/OckermanSethGVSU/Fast-PII){:target="_blank"}. FastPII supports multi-GPU, multi-node, and NVIDIA multi-instance GPU sliding window analysis. Testing demonsrate that FastPII consistently outperforms both PyTorch and OpenCV. Our work was recently accepted for publication in GPGPU-2025 (link to be added when available).
+
 ### Optimizing Computation vs Communication in Distributed Deep Learning Training
-#### University of Wisconsin Madison | Feb. 2023 - Present
-Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I am exploring the trade-offs between computation and communication in Distributed Deep Learning Training. 
+#### University of Wisconsin Madison | Feb. 2024 - May 2024
+Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I explored the trade-offs between computation and communication in Distributed Deep Learning Training, designing an approach that maximized overlap of communication and computation kernels. 
 
 
 
 ### Exploring Machine Learning for State-of-Charge and State-of-Health Prediction in a Real World Fast-Charging Scenario
-#### University of Wisconsin Madison | Aug. 2023 - Present
-Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I am performing research which addresses the need for accurate battery state-of-charge (SoC) and state-of-health (SoH) predictions in energy storage systems. We explore SoC prediction in batteries with diverse fast charging policies, resembling real-world scenarios. Key findings include the identification of crucial training features, successful adaptation to unforeseen charging policies using continuous learning, and efficient transition from SoC to SoH prediction without additional development.
+#### University of Wisconsin Madison | Aug. 2023 - Feb. 2024
+Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I performed research which addresses the need for accurate battery state-of-charge (SoC) and state-of-health (SoH) predictions in energy storage systems. We explored SoC prediction in batteries with diverse fast charging policies, resembling real-world scenarios. Key findings include the identification of crucial training features, successful adaptation to unforeseen charging policies using continuous learning, and efficient transition from SoC to SoH prediction without additional development.
 
 
 --- 
 
 ### Harnessing Parallelization for Bayesian Optimization HPC Tuning Searches 
 #### Lawrence Berkeley Lab | June 2023 - Feb. 2024
-Bayesian optimization (BO) is an inherently sequential workflow that cannot fully utilize modern supercomputers' parallel architecture. Overseen by [Professor Adrián Pérez Diéguez](https://www.linkedin.com/in/aperezdieguez/?originalSubdomain=es){:target="_blank"}, I designed two [GPTune-RCI](https://github.com/gptune/GPTune){:target="_blank"} implementations which enable parallel function evaluation during BO. My parallel BO implementations reduced search time by up to 84% for prominent HPC applications. Further testing also demonstrated up to 77% reduced search time relative to the state-the-art HPC tuner (DeepHyper) which also employs parallelism. Additionally, I implemented a novel parallel multitask learning algorithm which improves both time-to-optimal-solution and final solution quality. 
+Bayesian optimization (BO) is an inherently sequential workflow that cannot fully utilize modern supercomputers' parallel architecture. Overseen by [Professor Adrián Pérez Diéguez](https://www.linkedin.com/in/aperezdieguez/?originalSubdomain=es){:target="_blank"}, I designed two [GPTune-RCI](https://github.com/gptune/GPTune){:target="_blank"} implementations which enable parallel function evaluation during BO. My parallel BO implementations reduced search time by up to 84% for prominent HPC applications. Further testing also demonstrated up to 77% reduced search time relative to the state-the-art HPC tuner (DeepHyper) which also employs parallelism. Additionally, I implemented a novel parallel multitask learning algorithm which improves both time-to-optimal-solution and final solution quality. This work helped form the basis for a 2025 publication in IJ-HPCA (link to be added when available).
 
-<!-- Our work is in submission for [HPDC 2024](https://www.hpdc.org/2024/){:target="_blank"} -->
 
 ---
 

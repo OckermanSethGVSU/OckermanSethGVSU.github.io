@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-Email: ockermas (AT) mail.gvsu.edu
+Email: sockerman (AT) cs.wisc.edu
 
 [Github](https://github.com/OckermanSethGVSU){:target="_blank"}
 

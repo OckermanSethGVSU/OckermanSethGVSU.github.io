@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-sidebar_link: true
+sidebar_link: false
 ---
 
 #### WJ Cody Research Intern | [Argonne National Lab](https://www.anl.gov/){:target="_blank"} | May. 2024 - Present
