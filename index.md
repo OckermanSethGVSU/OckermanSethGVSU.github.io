@@ -37,3 +37,9 @@ Previously, I completed my undergraduate degree at [Grand Valley State Universit
 ## Contact
 
 Email: sockerman (AT) cs.wisc.edu
+
+
+## Awards
+* NSF GRFP 2025 Honorable Mention
+* Argonne WJ-Cody Summer Fellow 2024/2025
+* GVSU Computer Science Scholarship 2021
