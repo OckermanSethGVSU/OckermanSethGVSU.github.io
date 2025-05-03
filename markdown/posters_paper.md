@@ -7,9 +7,6 @@ sidebar_link: true
 Summary of research posters created over the years that will not be listed on Google Scholar. If possible/appropriate, a link to view/download the poster is included.
 
 
-## Posters
-
-
 **Automatic Parameter Tuning of Web Servers with Machine Learning and Large Language Models | 2025**
 * UW-Madison Advanced Networking Poster Showcase
 * [Download link](https://drive.google.com/file/d/1lOvzMAL-V7tnC5eqqdgEb_O5tnadpWJn/view?usp=sharing){:target="_blank"}
