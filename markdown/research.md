@@ -17,7 +17,7 @@ Through a collaboration between Argonne National Labrartory and University of Wi
 
 ### FastPII: Enabling Multi-GPU, Memory-Efficient SWA
 #### Freelance | May 2024 - Sep. 2024
-In collaboration with [Professor Erin Carrier](https://eecarrier.github.io/){:target="_blank"}, I expanded my past work with [BioPII](https://github.com/OckermanSethGVSU/Bio-PII){:target="_blank"} into [FastPII](https://github.com/OckermanSethGVSU/Fast-PII){:target="_blank"}. FastPII supports multi-GPU, multi-node, and NVIDIA multi-instance GPU sliding window analysis. Testing demonsrate that FastPII consistently outperforms both PyTorch and OpenCV. Our work was accepted for [publication in GPGPU-2025](lhttps://dl.acm.org/doi/10.1145/3725798.3725804){:target="_blank"}.
+In collaboration with [Professor Erin Carrier](https://eecarrier.github.io/){:target="_blank"}, I expanded my past work with [BioPII](https://github.com/OckermanSethGVSU/Bio-PII){:target="_blank"} into [FastPII](https://github.com/OckermanSethGVSU/Fast-PII){:target="_blank"}. FastPII supports multi-GPU, multi-node, and NVIDIA multi-instance GPU sliding window analysis. Testing demonsrate that FastPII consistently outperforms both PyTorch and OpenCV. Our work was accepted for [publication in GPGPU-2025](https://dl.acm.org/doi/10.1145/3725798.3725804){:target="_blank"}.
 
 ### Optimizing Computation vs Communication in Distributed Deep Learning Training
 #### University of Wisconsin Madison | Feb. 2024 - May 2024
