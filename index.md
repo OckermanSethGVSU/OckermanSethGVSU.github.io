@@ -16,6 +16,19 @@ Previously, I completed my undergraduate degree at [Grand Valley State Universit
 * Machine Learning
 
 
+## Contact
+
+Email: sockerman (AT) cs.wisc.edu
+
+
+## Awards
+* NSF GRFP 2025 Honorable Mention
+* Argonne WJ-Cody Summer Fellow 2024/2025
+* GVSU Computer Science Scholarship 2021
+
+## Service 
+
+* Reviewer, SC 2025 – International Conference for High Performance Computing, Networking, Storage, and Analysis
 
 <div style="display: inline-block;">
     <a href="https://scholar.google.com/citations?user=7gZFL2IAAAAJ&hl=en" target="_blank">
@@ -34,12 +47,3 @@ Previously, I completed my undergraduate degree at [Grand Valley State Universit
 </div>
 
 
-## Contact
-
-Email: sockerman (AT) cs.wisc.edu
-
-
-## Awards
-* NSF GRFP 2025 Honorable Mention
-* Argonne WJ-Cody Summer Fellow 2024/2025
-* GVSU Computer Science Scholarship 2021
