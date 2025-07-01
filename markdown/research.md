@@ -27,7 +27,7 @@ Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}
 
 ### Exploring Machine Learning for State-of-Charge and State-of-Health Prediction in a Real World Fast-Charging Scenario
 #### University of Wisconsin Madison | Aug. 2023 - Feb. 2024
-Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I performed research which addresses the need for accurate battery state-of-charge (SoC) and state-of-health (SoH) predictions in energy storage systems. We explored SoC prediction in batteries with diverse fast charging policies, resembling real-world scenarios. Key findings include the identification of crucial training features, successful adaptation to unforeseen charging policies using continuous learning, and efficient transition from SoC to SoH prediction without additional development.
+Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I performed research which addresses the need for accurate battery state-of-charge (SoC) and state-of-health (SoH) predictions in energy storage systems. We explored SoC prediction in batteries with diverse fast charging policies, resembling real-world scenarios. Key findings include the identification of crucial training features, successful adaptation to unforeseen charging policies using continuous learning, and efficient transition from SoC to SoH prediction without additional development. This work was published in the [Journal of Power Sources](https://www.sciencedirect.com/science/article/pii/S0378775325012546){:target="_blank"}.
 
 
 --- 
