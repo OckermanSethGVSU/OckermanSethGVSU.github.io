@@ -29,6 +29,7 @@ Email: sockerman (AT) cs.wisc.edu
 ## Service 
 
 * Reviewer, SC 2025 – International Conference for High Performance Computing, Networking, Storage, and Analysis
+* Reviewer, WISDOM 2025 – Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management
 
 <div style="display: inline-block;">
     <a href="https://scholar.google.com/citations?user=7gZFL2IAAAAJ&hl=en" target="_blank">
