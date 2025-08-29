@@ -5,7 +5,7 @@ title: Home
 ---
 
 ## Quick Bio 
-I am a Ph.D. Student studying Computer Science at [University of Wisconsin-Madison](https://www.cs.wisc.edu/){:target="_blank"}, funded as a [NSF GRFP](https://www.nsfgrfp.org/){:target="_blank"} fellow. My research is focused on developing and fine-tuning systems for large scale data science and machine learning. 
+I am a Ph.D. Student studying Computer Science at [University of Wisconsin-Madison](https://www.cs.wisc.edu/){:target="_blank"}, funded as a [NSF GRFP](https://www.nsfgrfp.org/){:target="_blank"} fellow. My research is focused on characterizing and scaling AI workloads on high-performance computing platforms.
 
 Previously, I completed my undergraduate degree at [Grand Valley State University](https://www.gvsu.edu/){:target="_blank"}, studying Computer Science with minors in mathematics and writing.
 
