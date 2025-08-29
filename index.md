@@ -24,6 +24,7 @@ Email: sockerman (AT) cs.wisc.edu
 ## Awards
 * NSF GRFP Fellowship
 * Argonne WJ-Cody Summer Fellow 2024/2025
+* Argonne Student Appointment 2024-2025
 * GVSU Computer Science Scholarship 2021
 
 ## Service 
