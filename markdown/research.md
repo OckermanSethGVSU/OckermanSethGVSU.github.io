@@ -8,22 +8,34 @@ My research typically involves applications of ML, HPC, and Systems. I've enjoye
 [My Google Scholar](https://scholar.google.com/citations?user=7gZFL2IAAAAJ&hl=en){:target="_blank"}
 
 
-### Exploring Reproducibility and Efficiency in ML and HPC
-#### Argonne Lab & University of Wisconsin Madison | May 2024 - Present
-Through a collaboration between Argonne National Labrartory and University of Wisconsin Madison, I am working under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, [Amal Gueroudji](https://www.anl.gov/profile/amal-gueroudji){:target="_blank"}, and [Rob Ross](https://www.anl.gov/profile/robert-b-ross){:target="_blank"}. We are exploring reproducibility and efficiency in HPC and Deep Learning. This has taken the form of designing a new memory efficent approach for training spatiotemporal GNNs on large datasets, studying large-scale LLM preprocessing workflows to implement layered-profiling, and reducing data collection overhead by optimizing Mofka. This work is ongoing. 
+### Improving Scalability and Efficiency in Large-Scale HPC-ML Workloads
+#### University of Wisconsin Madison & Argonne National Laboratory | May 2024 - Present
+Through a collaboration between Argonne National Laboratory and University of Wisconsin Madison, I am working under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, [Amal Gueroudji](https://www.anl.gov/profile/amal-gueroudji){:target="_blank"}, and [Rob Ross](https://www.anl.gov/profile/robert-b-ross){:target="_blank"}. My research focuses on characterizing ML workloads on HPC systems to identify bottlenecks and propose solutions. This work has spanned multiple projects:
+
+* Characterizing Vector Databases on HPC Platforms
+    * This work is ongoing and it seeks to understand the unique challenges of hosting large-scale vector databases on HPC systems. Some of our initial results were published as an [SC 2025 workshop paper](https://arxiv.org/abs/2509.12384){:target="_blank"}. 
+
+* Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training
+    * I designed and implemented a novel batching technique that reduced memory overhead and improved scalability in ST-GNNs. My work was published as an [SC-2025 conference paper](https://arxiv.org/abs/2507.11683){:target="_blank"}, and the techniques are fully integrated into the open-source package [PyTorch-Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal){:target="_blank"}.
+* Enabling HPC-Tailored Profiling using Mofka
+    * I aided in integrating [Mofka](https://mofka.readthedocs.io/en/latest/){:target="_blank"}, an HPC-tailored streaming service, into [Flowcept](https://github.com/ORNL/flowcept/tree/main){:target="_blank"}, enabling more efficient profiling of HPC workloads. Our findings are described in a [Frontiers of High Performance Computing Journal paper](https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2025.1638203/full){:target="_blank"}. 
+
+ 
 
 
-
+--- 
 
 ### FastPII: Enabling Multi-GPU, Memory-Efficient SWA
 #### Freelance | May 2024 - Sep. 2024
 In collaboration with [Professor Erin Carrier](https://eecarrier.github.io/){:target="_blank"}, I expanded my past work with [BioPII](https://github.com/OckermanSethGVSU/Bio-PII){:target="_blank"} into [FastPII](https://github.com/OckermanSethGVSU/Fast-PII){:target="_blank"}. FastPII supports multi-GPU, multi-node, and NVIDIA multi-instance GPU sliding window analysis. Testing demonsrate that FastPII consistently outperforms both PyTorch and OpenCV. Our work was accepted for [publication in GPGPU-2025](https://dl.acm.org/doi/10.1145/3725798.3725804){:target="_blank"}.
 
+--- 
+
 ### Optimizing Computation vs Communication in Distributed Deep Learning Training
 #### University of Wisconsin Madison | Feb. 2024 - May 2024
 Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, I explored the trade-offs between computation and communication in Distributed Deep Learning Training, designing an approach that maximized overlap of communication and computation kernels. 
 
-
+--- 
 
 ### Exploring Machine Learning for State-of-Charge and State-of-Health Prediction in a Real World Fast-Charging Scenario
 #### University of Wisconsin Madison | Aug. 2023 - Feb. 2024
@@ -34,7 +46,7 @@ Under [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}
 
 ### Harnessing Parallelization for Bayesian Optimization HPC Tuning Searches 
 #### Lawrence Berkeley Lab | June 2023 - Feb. 2024
-Bayesian optimization (BO) is an inherently sequential workflow that cannot fully utilize modern supercomputers' parallel architecture. Overseen by [Professor Adrián Pérez Diéguez](https://www.linkedin.com/in/aperezdieguez/?originalSubdomain=es){:target="_blank"}, I designed two [GPTune-RCI](https://github.com/gptune/GPTune){:target="_blank"} implementations which enable parallel function evaluation during BO. My parallel BO implementations reduced search time by up to 84% for prominent HPC applications. Further testing also demonstrated up to 77% reduced search time relative to the state-the-art HPC tuner (DeepHyper) which also employs parallelism. Additionally, I implemented a novel parallel multitask learning algorithm which improves both time-to-optimal-solution and final solution quality. This work helped form the basis for a 2025 publication in IJ-HPCA (link to be added when available).
+Bayesian optimization (BO) is an inherently sequential workflow that cannot fully utilize modern supercomputers' parallel architecture. Overseen by [Professor Adrián Pérez Diéguez](https://www.linkedin.com/in/aperezdieguez/?originalSubdomain=es){:target="_blank"}, I designed two [GPTune-RCI](https://github.com/gptune/GPTune){:target="_blank"} implementations which enable parallel function evaluation during BO. My parallel BO implementations reduced search time by up to 84% for prominent HPC applications. Further testing also demonstrated up to 77% reduced search time relative to the state-the-art HPC tuner (DeepHyper) which also employs parallelism. Additionally, I implemented a novel parallel multitask learning algorithm which improves both time-to-optimal-solution and final solution quality. This work formed the basis for a (2025 publication in IJ-HPCA)(https://journals.sagepub.com/doi/abs/10.1177/10943420251362001){:target="_blank"}.
 
 
 ---
