@@ -29,10 +29,11 @@ Email: sockerman (AT) cs.wisc.edu
 
 ## Service 
 
-* Reviewer, SC 2025 – International Conference for High Performance Computing, Networking, Storage, and Analysis
-* Reviewer, WISDOM 2025 – Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management
-* Reviewer, IEEE International Conference on Cluster Computing 2026
-* Reviewer, IEEE International eScience Conference 2026
+* Reviewer and Committee Member, [1st Workshop on Agentic AI for Large-scale Science](https://agent4sc.github.io/){:target="_blank"} 
+* Reviewer, [IEEE International Conference on Cluster Computing 2026](https://clustercomp.org/2026/){:target="_blank"} 
+* Reviewer, [IEEE International eScience Conference 2026](https://www.escience-conference.org/2026/){:target="_blank"} 
+* Reviewer, [SC 2025 – International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc25.supercomputing.org/){:target="_blank"} 
+* Reviewer, [WISDOM 2025 – Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management](https://workflows.community/workshops/wisdom-2025/){:target="_blank"} 
 
 
 ## Links 
