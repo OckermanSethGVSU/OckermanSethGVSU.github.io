@@ -5,6 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Seth Ockerman
 description:      CS Ph.D. Student 
+affiliation:      University of Wisconsin–Madison
 # url:              https://fongandrew.github.io
 # baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"

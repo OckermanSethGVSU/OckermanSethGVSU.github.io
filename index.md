@@ -11,46 +11,29 @@ Previously, I completed my undergraduate degree at [Grand Valley State Universit
 
 
 ## Research Interests
-* Systems
-* HPC
-* Machine Learning
 
-
-## Contact
-
-Email: sockerman (AT) cs.wisc.edu
+<div class="research-tags">
+  <span>Systems</span>
+  <span>HPC</span>
+  <span>Machine Learning</span>
+</div>
 
 
 ## Awards
-* NSF GRFP Fellowship
-* Argonne WJ-Cody Summer Fellow 2024/2025
-* Argonne Student Appointment 2024-2025
-* GVSU Computer Science Scholarship 2021
 
-## Service 
-
-* Reviewer and Committee Member, [1st Workshop on Agentic AI for Large-scale Science](https://agent4sc.github.io/){:target="_blank"} 
-* Reviewer, [IEEE International Conference on Cluster Computing 2026](https://clustercomp.org/2026/){:target="_blank"} 
-* Reviewer, [IEEE International eScience Conference 2026](https://www.escience-conference.org/2026/){:target="_blank"} 
-* Reviewer, [SC 2025 – International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc25.supercomputing.org/){:target="_blank"} 
-* Reviewer, [WISDOM 2025 – Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management](https://workflows.community/workshops/wisdom-2025/){:target="_blank"} 
-
-
-## Links 
-<div style="display: inline-block;">
-    <a href="https://scholar.google.com/citations?user=7gZFL2IAAAAJ&hl=en" target="_blank">
-        <img src="images/gScholar.png" alt="Link to my Google Scholar" style="width: 150px; height: 150px; margin-right: 50px;">
-    </a>
-</div>
-<div style="display: inline-block;">
-    <a href="https://github.com/OckermanSethGVSU" target="_blank">
-        <img src="images/github-logo-vector.png" alt="Link to my Github" style="width: 150px; height: 150px; margin-right: 50px;">
-    </a>
-</div>
-<div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/sethockerman/" target="_blank">
-        <img src="images/Linkedin-Logo.png" alt="Link to my LinkedIn" style="width: 150px; height: 150px;">
-    </a>
+<div class="compact-cards awards-cards">
+  <div class="compact-card">NSF GRFP Fellowship<br><small>2024–Present</small></div>
+  <div class="compact-card">Argonne WJ-Cody Summer Fellow<br><small>2024–2025</small></div>
+  <div class="compact-card">Argonne Student Appointment<br><small>2024–2025</small></div>
+  <div class="compact-card">GVSU Computer Science Scholarship<br><small>2021</small></div>
 </div>
 
+## Service
 
+<div class="compact-cards service-cards">
+  <div class="compact-card"><span>Reviewer &amp; Committee Member</span><a href="https://agent4sc.github.io/" target="_blank" rel="noopener">1st Workshop on Agentic AI for Large-scale Science</a></div>
+  <div class="compact-card"><span>Reviewer</span><a href="https://clustercomp.org/2026/" target="_blank" rel="noopener">IEEE International Conference on Cluster Computing 2026</a></div>
+  <div class="compact-card"><span>Reviewer</span><a href="https://www.escience-conference.org/2026/" target="_blank" rel="noopener">IEEE International eScience Conference 2026</a></div>
+  <div class="compact-card"><span>Reviewer</span><a href="https://sc25.supercomputing.org/" target="_blank" rel="noopener">SC 2025</a></div>
+  <div class="compact-card"><span>Reviewer</span><a href="https://workflows.community/workshops/wisdom-2025/" target="_blank" rel="noopener">WISDOM 2025</a></div>
+</div>

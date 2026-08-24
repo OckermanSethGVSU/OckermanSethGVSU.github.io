@@ -2,10 +2,15 @@
 layout: page
 title: Research
 sidebar_link: true
+page_class: research-page
 ---
 My research typically involves applications of ML, HPC, and Systems. I've enjoyed being able to work on a variety of different projects in diverse domains.
 
-[My Google Scholar](https://scholar.google.com/citations?user=7gZFL2IAAAAJ&hl=en){:target="_blank"}
+<a class="scholar-profile-link" href="https://scholar.google.com/citations?user=7gZFL2IAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+  <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="" aria-hidden="true">
+  <span>View my Google Scholar profile</span>
+  <span class="link-arrow" aria-hidden="true">↗</span>
+</a>
 
 
 ### Improving Scalability and Efficiency in Large-Scale HPC-ML Workloads
@@ -79,4 +84,3 @@ Mentored by [Professor Christopher Stewart](https://cse.osu.edu/people/stewart.9
 ### Improving the Accessibility of Video Games
 #### Grand Valley State University | Sep. 2019 - June 2020 
 My freshmen year, I worked as a research assistant for [Professor Ira Woodring](https://www.linkedin.com/in/ira-woodring-3720a47a){:target="_blank"}. I helped perform literature review, summarized and aggregated useful sources, and contributed towards a GameBoy Emulator in C. 
-
