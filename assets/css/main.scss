@@ -80,6 +80,6 @@ body {
   #sidebar .affiliation { display: table; margin-left: auto; margin-right: auto; text-align: left; }
   #sidebar .sidebar-email { display: table; margin-left: auto; margin-right: auto; }
   #sidebar .profile-links { justify-content: center; }
-  .container > header { text-align: center; }
+  .container > header { margin-top: 1.5rem; text-align: center; }
   .compact-cards { grid-template-columns: 1fr; }
 }
