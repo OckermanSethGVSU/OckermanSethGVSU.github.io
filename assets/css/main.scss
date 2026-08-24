@@ -74,6 +74,11 @@ body {
 
 @media (max-width: 36rem) {
   #sidebar { padding: 2rem 1.5rem; }
+  #sidebar .sidebar-header { align-items: center; display: flex; flex-direction: column; text-align: center; }
   #sidebar .profile-photo { height: 6.5rem; width: 6.5rem; }
+  #sidebar .profile-photo { margin-left: auto; margin-right: auto; }
+  #sidebar .affiliation { display: table; margin-left: auto; margin-right: auto; text-align: left; }
+  #sidebar .sidebar-email { display: table; margin-left: auto; margin-right: auto; }
+  #sidebar .profile-links { justify-content: center; }
   .compact-cards { grid-template-columns: 1fr; }
 }
