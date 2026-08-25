@@ -16,6 +16,8 @@ Previously, I completed my undergraduate degree at [Grand Valley State Universit
   <span>Systems</span>
   <span>HPC</span>
   <span>Machine Learning</span>
+  <span>Vector Search</span>
+  <span>Knowledge Retrieval</span>
 </div>
 
 
