@@ -223,22 +223,55 @@
 <div class="timeline">
 
 <section class="project current">
-    <h3 id="improving-scalability-and-efficiency-in-large-scale-hpc-ml-workloads">Improving Scalability and Efficiency in Large-Scale HPC-ML Workloads</h3>
-    <p class="project-meta"><span class="org">University of Wisconsin Madison &amp; Argonne National Laboratory</span><span class="date">May 2024 – Present</span></p>
+    <h3 id="supernova-realistic-billion-scale-vector-search-benchmarks">Supernova: Realistic Billion-Scale Vector Search Benchmarks</h3>
+    <p class="project-meta"><span class="org">University of Wisconsin Madison, Argonne National Laboratory, Qdrant &amp; ETH Zurich</span><span class="date">2026 – Present</span></p>
 
-    <p>Through a collaboration between Argonne National Laboratory and University of Wisconsin Madison, I am working under <a href="https://shivaram.org/" target="_blank">Professor Shivaram Venkataraman</a>, <a href="https://www.anl.gov/profile/amal-gueroudji" target="_blank">Amal Gueroudji</a>, and <a href="https://www.anl.gov/profile/robert-b-ross" target="_blank">Rob Ross</a>. My research focuses on characterizing ML workloads on HPC systems to identify bottlenecks and propose solutions. This work has spanned multiple projects:</p>
-
-    <ul>
-      <li><strong>Characterizing Vector Databases on HPC Platforms</strong> — This work is ongoing and it seeks to understand the unique challenges of hosting large-scale vector databases on HPC systems. Some of our initial results were published as an <a href="https://arxiv.org/abs/2509.12384" target="_blank">SC 2025 workshop paper</a>.</li>
-      <li><strong>Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training</strong> — I designed and implemented a novel batching technique that reduced memory overhead and improved scalability in ST-GNNs. My work was published as an <a href="https://arxiv.org/abs/2507.11683" target="_blank">SC-2025 conference paper</a>, and the techniques are fully integrated into the open-source package <a href="https://github.com/benedekrozemberczki/pytorch_geometric_temporal" target="_blank">PyTorch-Geometric Temporal</a>.</li>
-      <li><strong>Enabling HPC-Tailored Profiling using Mofka</strong> — I aided in integrating <a href="https://mofka.readthedocs.io/en/latest/" target="_blank">Mofka</a>, an HPC-tailored streaming service, into <a href="https://github.com/ORNL/flowcept/tree/main" target="_blank">Flowcept</a>, enabling more efficient profiling of HPC workloads. Our findings are described in a <a href="https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2025.1638203/full" target="_blank">Frontiers of High Performance Computing Journal paper</a>.</li>
-    </ul>
+    <p>In collaboration with <a href="https://www.anl.gov/" target="_blank">Argonne National Laboratory</a>, <a href="https://qdrant.tech/" target="_blank">Qdrant</a>, and <a href="https://ethz.ch/" target="_blank">ETH Zurich</a>, I helped develop <a href="https://github.com/qdrant-labs/supernova" target="_blank">Supernova</a>, an open-source toolkit for billion-scale vector search benchmarking, including embedding generation, exact ground-truth computation, and evaluation. Using Supernova, we released three public datasets: <a href="https://huggingface.co/datasets/Qdrant/FineWeb-10B" target="_blank">FineWeb-10B</a>, a 10-billion-document dataset supporting dense, sparse, and filtered search; <a href="https://huggingface.co/datasets/Qdrant/PubMed-MV" target="_blank">PubMed-MV</a>, a multi-vector dataset of PubMed abstracts; and <a href="https://huggingface.co/datasets/Qdrant/Coyo-VE" target="_blank">Coyo-VE</a>, a multimodal image–text embedding dataset.</p>
 
     <div class="pub-links">
+  <a href="https://github.com/qdrant-labs/supernova" target="_blank" rel="noopener"><b>Code</b> Supernova</a>
+  <a href="https://huggingface.co/datasets/Qdrant/FineWeb-10B" target="_blank" rel="noopener"><b>Data</b> FineWeb-10B</a>
+  <a href="https://huggingface.co/datasets/Qdrant/PubMed-MV" target="_blank" rel="noopener"><b>Data</b> PubMed-MV</a>
+  <a href="https://huggingface.co/datasets/Qdrant/Coyo-VE" target="_blank" rel="noopener"><b>Data</b> Coyo-VE</a>
+  <a href="https://qdrant.tech/blog/qdrant-fineweb-10b-release/" target="_blank" rel="noopener"><b>Blog</b> Qdrant release</a>
+</div>
+  </section>
+
+<section class="project current">
+    <h3 id="characterizing-and-scaling-vector-databases-on-hpc-systems">Characterizing and Scaling Vector Databases on HPC Systems</h3>
+    <p class="project-meta"><span class="org">University of Wisconsin Madison &amp; Argonne National Laboratory</span><span class="date">2024 – Present</span></p>
+
+    <p>Working with <a href="https://shivaram.org/" target="_blank">Professor Shivaram Venkataraman</a>, <a href="https://www.anl.gov/profile/amal-gueroudji" target="_blank">Amal Gueroudji</a>, and <a href="https://www.anl.gov/profile/robert-b-ross" target="_blank">Rob Ross</a>, I study the performance and scalability of vector databases (Qdrant, Milvus, and Weaviate) on HPC systems. We published our initial findings in an <a href="https://arxiv.org/abs/2509.12384" target="_blank">SC 2025 workshop paper</a>, followed by a more in-depth examination in <a href="https://arxiv.org/abs/2606.08950" target="_blank"><em>When More Cores Hurts</em></a>.</p>
+
+    <div class="pub-links">
+  <a href="https://arxiv.org/abs/2606.08950" target="_blank" rel="noopener"><b>Preprint</b> When More Cores Hurts</a>
   <a href="https://arxiv.org/abs/2509.12384" target="_blank" rel="noopener"><b>Paper</b> SC '25 Workshop</a>
+  <a href="/assets/posters/vector-db-scaling-2026.pdf" target="_blank" rel="noopener"><b>Poster</b> SC '26</a>
+</div>
+  </section>
+
+<section class="project">
+    <h3 id="memory-efficient-distributed-training-for-spatiotemporal-gnns">Memory-Efficient Distributed Training for Spatiotemporal GNNs</h3>
+    <p class="project-meta"><span class="org">University of Wisconsin Madison &amp; Argonne National Laboratory</span><span class="date">May 2024 – 2025</span></p>
+
+    <p>Under <a href="https://shivaram.org/" target="_blank">Professor Shivaram Venkataraman</a> and <a href="https://www.anl.gov/profile/amal-gueroudji" target="_blank">Amal Gueroudji</a>, I designed and implemented a novel batching technique that reduced memory overhead and improved scalability in spatiotemporal GNNs (ST-GNNs). My work was published as an <a href="https://arxiv.org/abs/2507.11683" target="_blank">SC-2025 conference paper</a>, and the techniques are fully integrated into the open-source package <a href="https://github.com/benedekrozemberczki/pytorch_geometric_temporal" target="_blank">PyTorch-Geometric Temporal</a>.</p>
+
+    <div class="pub-links">
   <a href="https://arxiv.org/abs/2507.11683" target="_blank" rel="noopener"><b>Paper</b> SC '25</a>
-  <a href="https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2025.1638203/full" target="_blank" rel="noopener"><b>Paper</b> Frontiers in HPC '25</a>
   <a href="https://github.com/benedekrozemberczki/pytorch_geometric_temporal" target="_blank" rel="noopener"><b>Code</b> PyG Temporal</a>
+  <a href="/assets/posters/dask-gnn-2024.pdf" target="_blank" rel="noopener"><b>Poster</b> Argonne '24</a>
+</div>
+  </section>
+
+<section class="project">
+    <h3 id="hpc-tailored-workflow-profiling-with-flowcept-and-mofka">HPC-Tailored Workflow Profiling with Flowcept and Mofka</h3>
+    <p class="project-meta"><span class="org">Argonne National Laboratory</span><span class="date">2024 – 2025</span></p>
+
+    <p>With <a href="https://www.anl.gov/profile/amal-gueroudji" target="_blank">Amal Gueroudji</a> and <a href="https://www.anl.gov/profile/robert-b-ross" target="_blank">Rob Ross</a>, I aided in integrating <a href="https://mofka.readthedocs.io/en/latest/" target="_blank">Mofka</a>, an HPC-tailored streaming service, into <a href="https://github.com/ORNL/flowcept/tree/main" target="_blank">Flowcept</a>, enabling more efficient profiling of HPC workloads. Our findings are described in a <a href="https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2025.1638203/full" target="_blank">Frontiers in High Performance Computing journal paper</a>.</p>
+
+    <div class="pub-links">
+  <a href="https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2025.1638203/full" target="_blank" rel="noopener"><b>Paper</b> Frontiers in HPC '25</a>
+  <a href="/assets/posters/flowcept-mofka-2025.pdf" target="_blank" rel="noopener"><b>Poster</b> GCASR '25</a>
 </div>
   </section>
 
