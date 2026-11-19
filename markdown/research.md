@@ -33,7 +33,7 @@ In collaboration with [Argonne National Laboratory](https://www.anl.gov/){:targe
 ### Characterizing and Scaling Vector Databases on HPC Systems
 <p class="project-meta"><span class="org">University of Wisconsin Madison &amp; Argonne National Laboratory</span></p>
 
-Working with [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, [Amal Gueroudji](https://www.anl.gov/profile/amal-gueroudji){:target="_blank"}, and [Rob Ross](https://www.anl.gov/profile/robert-b-ross){:target="_blank"}, I study the performance and scalability of vector databases (Qdrant, Milvus, and Weaviate) on HPC systems. We published our initial findings in an [SC 2025 workshop paper](https://arxiv.org/abs/2509.12384){:target="_blank"}, followed by a more in-depth examination in [*When More Cores Hurts*](https://arxiv.org/abs/2606.08950){:target="_blank"}.
+Working with [Professor Shivaram Venkataraman](https://shivaram.org/){:target="_blank"}, [Amal Gueroudji](https://www.anl.gov/profile/amal-gueroudji){:target="_blank"}, and [Rob Ross](https://www.anl.gov/profile/robert-b-ross){:target="_blank"}, I studied the performance and scalability of vector databases (Qdrant, Milvus, and Weaviate) on HPC systems. We published our initial findings in an [SC 2025 workshop paper](https://arxiv.org/abs/2509.12384){:target="_blank"}, followed by a more in-depth examination in [*When More Cores Hurts*](https://arxiv.org/abs/2606.08950){:target="_blank"}.
 
 <div class="pub-links">
   <a href="https://arxiv.org/abs/2606.08950" target="_blank" rel="noopener"><b>Preprint</b> When More Cores Hurts</a>
