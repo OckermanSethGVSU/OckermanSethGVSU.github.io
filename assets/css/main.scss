@@ -99,7 +99,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-
 .research-page .project h3 { color: #17344e; font-size: 1.12rem; font-weight: 700; letter-spacing: -.01em; line-height: 1.3; margin: 0 0 .35rem; }
 .research-page .project-meta { align-items: center; color: #567084; display: flex; flex-wrap: wrap; font-size: .8rem; font-weight: 600; gap: .35rem .75rem; margin: 0 0 .85rem; }
 .research-page .project-meta .date { background: #eef3f7; border-radius: 999px; color: #46627a; font-size: .74rem; padding: .12rem .55rem; white-space: nowrap; }
-.research-page .project.current .project-meta .date { background: #e7f4f1; color: #17695e; }
+.research-page .project.current .project-meta .date { background: #e7f4f1; color: #17695e; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; font-size: .68rem; }
 .research-page .project ul { margin: 0 0 1rem; padding-left: 1.1rem; }
 .research-page .project li { margin-bottom: .6rem; }
 .research-page .project li strong { color: #17344e; }

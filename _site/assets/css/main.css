@@ -571,7 +571,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-
 
 .research-page .project-meta .date { background: #eef3f7; border-radius: 999px; color: #46627a; font-size: .74rem; padding: .12rem .55rem; white-space: nowrap; }
 
-.research-page .project.current .project-meta .date { background: #e7f4f1; color: #17695e; }
+.research-page .project.current .project-meta .date { background: #e7f4f1; color: #17695e; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; font-size: .68rem; }
 
 .research-page .project ul { margin: 0 0 1rem; padding-left: 1.1rem; }
 
