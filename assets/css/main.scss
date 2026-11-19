@@ -3,6 +3,8 @@
 # only main files contain this front matter, not partials.
 ---
 
+$root-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
 @import "hydeout";
 
 /* Personal-site refinements */
@@ -51,8 +53,6 @@ body {
 .compact-card > span { color: #277b72; margin: 0 0 .3rem; }
 .compact-card a { display: block; font-weight: 650; }
 
-.research-page .content h3 { color: #17344e; font-size: 1.1rem; margin-top: 2.25rem; }
-.research-page .content h4 { color: #567084; font-size: .82rem; font-weight: 650; letter-spacing: .01em; line-height: 1.4; margin-bottom: .8rem; margin-top: .3rem; }
 .posters-page .poster-card { background: #fff; border: 1px solid #dce4eb; border-left: 3px solid #8dcac0; border-radius: .55rem; box-shadow: 0 2px 5px rgba(19, 52, 78, .04); margin: 1rem 0; padding: 1rem 1.1rem; transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease; }
 .posters-page .poster-card:hover { border-left-color: var(--accent); box-shadow: 0 7px 16px rgba(19, 52, 78, .09); transform: translateY(-2px); }
 .posters-page .poster-card h3 { color: #17344e; font-size: 1.08rem; line-height: 1.2; margin: 0 0 .45rem; }
@@ -64,6 +64,49 @@ body {
 .research-page .scholar-profile-link:hover, .research-page .scholar-profile-link:focus { background: #e1efff; border-color: #79abe0; text-decoration: none; transform: translateY(-1px); }
 .research-page .scholar-profile-link img { border-radius: 0; height: 1.15rem; margin: 0; width: 1.15rem; }
 .research-page .scholar-profile-link .link-arrow { font-size: 1rem; line-height: 1; }
+
+/* Typography + consistent headings */
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.content { font-size: .92em; line-height: 1.65; }
+.content p { margin-bottom: 1.1rem; }
+.container > header .page-title { color: #17344e; font-size: 2.1rem; font-weight: 700; letter-spacing: -.03em; margin-bottom: 1.25rem; }
+.container > header .page-title::after { background: var(--accent); border-radius: 2px; content: ""; display: block; height: 3px; margin-top: .6rem; width: 2.5rem; }
+.content h2 { font-weight: 700; }
+::selection { background: #cdeae4; color: #0d2338; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+
+/* Gentle entrance for page content */
+@media (prefers-reduced-motion: no-preference) {
+  .container > * { animation: fade-up 420ms ease-out both; }
+  .container > .content { animation-delay: 60ms; }
+  @keyframes fade-up { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+}
+
+/* Card hover affordances on the home page */
+.compact-card { transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease; }
+.compact-card:hover { border-color: #b9d9d3; box-shadow: 0 6px 14px rgba(19, 52, 78, .08); transform: translateY(-1px); }
+.awards-cards .compact-card { border-left: 3px solid #8dcac0; color: #17344e; font-weight: 600; }
+
+/* Sidebar footer */
+#sidebar .sidebar-footer, #sidebar > p:last-child { color: rgba(255, 255, 255, .5); font-size: .72rem; margin-top: 1.25rem; }
+#sidebar > p:last-child a { color: rgba(255, 255, 255, .65); }
+
+/* Research timeline */
+.research-page .timeline { --tl-pad: 1.6rem; border-left: 2px solid #dce4eb; margin: 1.75rem 0 2rem .4rem; padding-left: var(--tl-pad); }
+.research-page .project { margin-bottom: 2.4rem; position: relative; }
+.research-page .project::before { background: var(--paper); border: 2px solid #8dcac0; border-radius: 50%; content: ""; height: .8rem; left: calc(-1 * var(--tl-pad) - 1px - .4rem); position: absolute; top: .3rem; width: .8rem; }
+.research-page .project.current::before { background: var(--accent); border-color: var(--accent); box-shadow: 0 0 0 4px rgba(88, 182, 167, .2); }
+.research-page .project h3 { color: #17344e; font-size: 1.12rem; font-weight: 700; letter-spacing: -.01em; line-height: 1.3; margin: 0 0 .35rem; }
+.research-page .project-meta { align-items: center; color: #567084; display: flex; flex-wrap: wrap; font-size: .8rem; font-weight: 600; gap: .35rem .75rem; margin: 0 0 .85rem; }
+.research-page .project-meta .date { background: #eef3f7; border-radius: 999px; color: #46627a; font-size: .74rem; padding: .12rem .55rem; white-space: nowrap; }
+.research-page .project.current .project-meta .date { background: #e7f4f1; color: #17695e; }
+.research-page .project ul { margin: 0 0 1rem; padding-left: 1.1rem; }
+.research-page .project li { margin-bottom: .6rem; }
+.research-page .project li strong { color: #17344e; }
+.pub-links { display: flex; flex-wrap: wrap; gap: .45rem; margin-top: .2rem; }
+.content .pub-links a { align-items: center; background: #fff; border: 1px solid #d3dee7; border-radius: .4rem; color: #17344e; display: inline-flex; font-size: .76rem; font-weight: 500; gap: .4rem; padding: .22rem .55rem; text-decoration: none; transition: border-color 160ms ease, background-color 160ms ease, transform 160ms ease; }
+.content .pub-links a b { color: #17695e; font-size: .66rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; }
+.content .pub-links a:hover, .content .pub-links a:focus { background: #f2f9f7; border-color: var(--accent); transform: translateY(-1px); }
 
 @media (min-width: $large-breakpoint) {
   #sidebar, .home #sidebar { bottom: 0; height: auto; overflow-y: auto; padding-left: 1.25rem; padding-right: 1.25rem; width: 13.5rem; }
@@ -89,4 +132,6 @@ body {
   .container > header h1, .container > header h2, .container > header .page-title { color: #17344e !important; text-align: left; }
   .container > header + .content { padding-top: 1rem; }
   .compact-cards { grid-template-columns: 1fr; }
+  .research-page .timeline { --tl-pad: 1.1rem; }
+  .container > header + .content { background: #fbfcfe; }
 }
